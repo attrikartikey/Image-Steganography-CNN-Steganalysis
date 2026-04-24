@@ -16,7 +16,6 @@ This project implements the full steganography lifecycle across three phases:
 | **2 — Steganalysis** | Train a CNN binary classifier to detect hidden payloads from statistical image properties |
 | **3 — Visualisation** | Forensic-grade 9-plot diagnostic suite to quantify and interpret embedding footprints |
 
-Built as part of the **Multimedia Processing** course at **Thapar Institute of Engineering and Technology (TIET)**, ME CSE — May 2025.
 
 ---
 
